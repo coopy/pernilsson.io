@@ -5,6 +5,7 @@ import { prefixLink } from 'gatsby-helpers'
 import Headroom from 'react-headroom'
 import '../css/markdown-styles'
 
+import { config } from 'config'
 import { rhythm } from '../utils/typography'
 
 module.exports = React.createClass({
@@ -38,7 +39,7 @@ module.exports = React.createClass({
                 textDecoration: 'none',
               }}
             >
-              Gatsby!!!
+              {config.siteTitle}
             </Link>
           </Container>
         </Headroom>
