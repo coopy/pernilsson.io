@@ -17,12 +17,13 @@ module.exports = React.createClass({
   render () {
     return (
       <div>
+
         <Headroom
           wrapperStyle={{
             marginBottom: rhythm(1),
           }}
           style={{
-            background: 'lightgray',
+            background: '#FFFF94',
           }}
         >
           <Container
@@ -30,28 +31,36 @@ module.exports = React.createClass({
               maxWidth: 960,
               paddingTop: 0,
               padding: `${rhythm(1)} ${rhythm(3/4)}`,
+              textAlign: 'center'
             }}
           >
             <Link
               to={prefixLink('/')}
               style={{
                 color: 'black',
-                textDecoration: 'none',
+                textDecoration: 'none'
+
               }}
             >
-              {config.siteTitle}
+              <span style={{
+
+              }}>
+                {config.siteTitle}
+              </span>
             </Link>
           </Container>
         </Headroom>
+
         <Container
-          style={{
-            maxWidth: 960,
-            padding: `${rhythm(1)} ${rhythm(3/4)}`,
-            paddingTop: 0,
-          }}
-        >
-          {this.props.children}
+            style={{
+              maxWidth: 960,
+              padding: `${rhythm(1)} ${rhythm(3/4)}`,
+              paddingTop: 0,
+            }}
+          >
+            {this.props.children}
         </Container>
+
       </div>
     )
   },
