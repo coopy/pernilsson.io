@@ -23,7 +23,7 @@ module.exports = React.createClass({
             marginBottom: rhythm(1),
           }}
           style={{
-            background: '#FFFF94',
+            background: '#FF7700'
           }}
         >
           <Container
@@ -37,9 +37,8 @@ module.exports = React.createClass({
             <Link
               to={prefixLink('/')}
               style={{
-                color: 'black',
+                color: '#FFFFFF',
                 textDecoration: 'none'
-
               }}
             >
               <span style={{

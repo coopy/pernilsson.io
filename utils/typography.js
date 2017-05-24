@@ -21,7 +21,8 @@ const options = {
     },
   ],
   headerFontFamily: ['Roboto', 'sans-serif'],
-  headerColor: '#7E02FF',
+  headerColor: '#003366',
+  bodyColor: '#222222',
   bodyFontFamily: ['Roboto Slab', 'sans-serif'],
   baseFontSize: '18px',
   baseLineHeight: 1.65,
@@ -29,6 +30,18 @@ const options = {
   plugins: [
     new CodePlugin(),
   ],
+  overrideStyles: () => ({
+    a: {
+      color: '#FF7700',
+      textDecoration: 'none'
+    },
+    'a:visited': {
+      color: '#222222'
+    },
+    'a:hover': {
+      textDecoration: 'underline'
+    }
+  })
 }
 
 const typography = new Typography(options)
