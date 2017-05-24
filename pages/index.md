@@ -11,11 +11,9 @@ description: Per will take control over your project.
 
 ## Background
 
-I've been a professional software developer for 10 years.
+I've always been attracted to the immediately practical use of knowledge. I cut my teeth on the web by putting up simple websites usable by anyone, which to me was more interesting than diving into theoretical computer science and algorithm optimization. Perhaps that's why I chose to study the nascent field of interaction design in college. This is where I learned to put the user first, and that all the technology in the world can't help you unless you're applying design thinking to the (right) problem.
 
-I've always been attracted to the immediately practical use of knowledge. I cut my teeth on the web by putting up simple websites usable by anyone, which to me was more interesting than diving into theoretical computer science and algorithm optimization. Perhaps that's why I chose to study the nascent field of interaction design in college. This is where I learned to put the user first, and that all the technology in the world can't help you, unless you're applying design thinking to the (right) problem.
-
-After college, armed with an understanding of design's crucial importance to the success of any product or service, I began applying this knowledge to my software development practice.
+After college, armed with an understanding of design's crucial importance to the success of any product or service, I began applying this knowledge to my software development practice. I've now been a professional software developer for 10 years.
 
 ## How I run digital teams.
 I lead multi-disciplinary teams building digital products. That's a mouthful. What does that entail?
@@ -25,7 +23,7 @@ I lead multi-disciplinary teams building digital products. That's a mouthful. Wh
 
 ### What about the team?
 - I choose the right team members, or choose the right roles for the team provided.
-- I choose well-proven tools and processes, providing enough structure that makes everyday decisions for the team. This saves people's creative energy for the decisions that matter.
+- I choose well-proven tools and processes, providing enough structure to help the team make everyday decisions. This saves people's creative energy for the decisions that matter.
 - I coordinate work, making sure tasks are well-defined with clear owners, and that folks have the information they need.
 - I trust the team to make good decisions, letting each person own their own work.
 
@@ -33,7 +31,7 @@ I lead multi-disciplinary teams building digital products. That's a mouthful. Wh
 - Together with the team, and a whiteboard, we brainstorm user flows and interfaces for the experience, and then produce lightweight documentation. Just enough to clearly and unambiguously communicate the intent. More technical flows deserve more detailed documentation.
 - I work with designers who are comfortable creating interfaces directly in code, eliminating the waste of non-interactive, static comps for every possible screen or mode.
 - I work with developers who take ownership of the whole product, not just writing a feature to spec. This leads to higher quality, better tested software.
-- Working in a cadence of single-digit week sprints, I drive the team to make simple choices and deliver value fast, and again validate what we've built with real users.
+- Working in a cadence of single-digit week sprints, I drive the team to make simple choices and deliver value fast, and continuously validate what we've built with real users.
 
 ### "That sounds great, but technology is hard."
 - I pick the simplest combination of off-the-shelf and open-source technology that will scale acceptably. The goal is to write as little custom code as possible.
