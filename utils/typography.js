@@ -32,14 +32,14 @@ const options = {
   ],
   overrideStyles: () => ({
     a: {
-      color: '#FF7700',
-      textDecoration: 'none'
+      color: '#0088FF',
+      textDecoration: 'underline'
     },
     'a:visited': {
       color: '#222222'
     },
     'a:hover': {
-      textDecoration: 'underline'
+      textDecoration: 'none'
     }
   })
 }
