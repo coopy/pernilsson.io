@@ -41,4 +41,6 @@ I lead multi-disciplinary teams building digital products. That's a mouthful. Wh
 The end result is highly usable products and experiences, built on a foundation of maintainable code.
 
 ## Get in touch
+Find me on [Twitter](https://twitter.com/persproutlab), [Github](https://github.com/coopy), and [LinkedIn](https://www.linkedin.com/in/sproutlab).
+
 If you want to work with me, you can reach me via per@sproutlab.com, or give me a call at +1 (512) 550-7241.
