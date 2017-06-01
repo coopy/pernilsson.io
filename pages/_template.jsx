@@ -1,7 +1,6 @@
 import React from 'react'
 import { Container } from 'react-responsive-grid'
 import { Link } from 'react-router'
-import { prefixLink } from 'gatsby-helpers'
 import Headroom from 'react-headroom'
 import '../css/markdown-styles'
 
@@ -35,7 +34,7 @@ module.exports = React.createClass({
             }}
           >
             <Link
-              to={prefixLink('/')}
+              to='/'
               style={{
                 color: '#FFFFFF',
                 textDecoration: 'none'
