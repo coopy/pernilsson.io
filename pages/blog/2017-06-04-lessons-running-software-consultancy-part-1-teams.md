@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2017-06-04
+date: Sun Jun 04 2017 14:55:03 GMT-0700 (PDT)
 path: blog/lessons-running-software-consultancy-part-1-teams
 title: Lessons from running a software consultancy
 description: The first in a series of posts where I sum up my thoughts and opinions based on my experience from four years at a software consultancy.
