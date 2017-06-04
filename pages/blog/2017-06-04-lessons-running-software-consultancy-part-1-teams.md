@@ -20,4 +20,6 @@ Encourage your team to gently disagree with the customer when they think the pro
 
 If you don't do this, you're going to end up spending more time managing the project than you can afford. You'll be in fire-fighting mode (dealing with the consequences of bad decisions), or tech lead mode (supporting your team and arguing for simpler solutions). This is not your job.
 
-Your job is to make sure the team has fulfilling work and a good work environment, and that the customer are happy with the results and the talented team provided.
+Your job is to make sure the team has fulfilling work and a good work environment, and that the customer is happy with the results and the talented team provided.
+
+There's a lot more to running a healthy software development team, and I haven't even touched on Agile methodologies in this short post - that is the subject of a future article. The next post will be about Churn.
