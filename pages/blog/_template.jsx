@@ -2,10 +2,10 @@ import React from 'react'
 import { Container } from 'react-responsive-grid'
 import { Link } from 'react-router'
 import Headroom from 'react-headroom'
-import '../css/markdown-styles'
+import '../../css/markdown-styles'
 
 import { config } from 'config'
-import { rhythm } from '../utils/typography'
+import { rhythm } from '../../utils/typography'
 
 module.exports = React.createClass({
   propTypes () {
@@ -14,8 +14,7 @@ module.exports = React.createClass({
     }
   },
   render () {
-    console.log("FIRST LEVEL TEMPLATE")
-    // console.log(this.props.route.pages)
+    console.log("SUBTEMPLATE")
     return (
       <div>
 
