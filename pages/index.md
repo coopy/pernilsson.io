@@ -1,19 +1,13 @@
 ---
-title: I am Per Nilsson.
-description: Per will take control over your project.
+title: My name is Per Nilsson.
+description: Per is a digital product developer who can help you take back control over your project.
 ---
 
-- I help businesses realize digital strategy.
-- I work through scenarios and desired outcomes to ensure the right thing is being built.
 - I manage digital product development end-to-end.
+- I help businesses realize digital strategy.
+- Working with me, we analyze the current situation and future scenarios, score desired outcomes, and generate a spectrum of ways to get there.
 
 ![Per Nilsson - Headshot](./per-nilsson-headshot.jpg)
-
-## Background
-
-I've always been attracted to the immediately practical use of knowledge. I cut my teeth on the web by putting up simple websites usable by anyone, which to me was more interesting than diving into theoretical computer science and algorithm optimization. Perhaps that's why I chose to study the nascent field of interaction design in college. This is where I learned to put the user first, and that all the technology in the world can't help you unless you're applying design thinking to the (right) problem.
-
-After college, armed with an understanding of design's crucial importance to the success of any product or service, I began applying this knowledge to my software development practice. I've now been a professional software developer for 10 years.
 
 ## How I run digital teams.
 I lead multi-disciplinary teams building digital products. That's a mouthful. What does that entail?
@@ -44,3 +38,9 @@ The end result is highly usable products and experiences, built on a foundation 
 Find me on [Twitter](https://twitter.com/persproutlab), [Github](https://github.com/coopy), and [LinkedIn](https://www.linkedin.com/in/sproutlab).
 
 If you want to work with me, you can reach me via per@sproutlab.com, or give me a call at +1 (512) 550-7241.
+
+## Background
+
+I've always been attracted to the immediately practical use of knowledge. I cut my teeth on the web by putting up simple websites usable by anyone, which to me was more interesting than diving into theoretical computer science and algorithm optimization. Perhaps that's why I chose to study the nascent field of interaction design in college. This is where I learned to put the user first, and that all the technology in the world can't help you unless you're applying design thinking to the (right) problem.
+
+After college, armed with an understanding of design's crucial importance to the success of any product or service, I began applying this knowledge to my software development practice. I've now been a professional software developer for 10 years.
