@@ -30,4 +30,3 @@ build/Release
 node_modules
 .gatsby-context.js
 .sass-cache/
-public
