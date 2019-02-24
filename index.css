@@ -33,11 +33,15 @@ body {
 
 .page-wrapper {
     margin: 0 auto;
-    width: 50%;
+    width: 75%;
 }
 
-h1, h2, h3, p, ul, li {
+h1, h2, h3, p, ul, li, img {
     margin-bottom: 0.618em;
+}
+
+article {
+    margin-bottom: 1.236em;
 }
 
 h1 {
@@ -72,7 +76,11 @@ a:hover {
     color: #D3D3D3;
 }
 
-ul li {
+li {
+    list-style-type: disc;
+}
+
+.outbound-links li {
     list-style-type: none;
 }
 
