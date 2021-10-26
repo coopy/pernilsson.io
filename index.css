@@ -22,6 +22,11 @@ time, mark, audio, video {
 }
 
 /* Website Styles */
+html {
+    position: relative;
+    min-height: 100%;
+}
+
 
 body {
     /* https://bitsofco.de/the-new-system-font-stack/ */
@@ -94,8 +99,11 @@ li {
 }
 
 footer {
-    margin-top:2.472em;
-    color:#6C7A89
+    margin: 2.472em 0 0.618em 0;
+    color:#6C7A89;
+    position: absolute;
+    bottom: 0;
+    width: 75%;
 }
 
 .flex-container {
@@ -133,7 +141,7 @@ footer {
     }
 }
 @media screen and (max-width: 975px) {
-    .flex-container {
+    .flex-container.responsive {
         display: block;
     }
 }
