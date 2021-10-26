@@ -24,7 +24,7 @@ time, mark, audio, video {
 /* Website Styles */
 
 body {
-    font-family: georgia, serif;
+    font-family: -apple-system,system-ui,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
     font-size: 13pt;
     margin: 1em;
     background-color: #fff;
@@ -43,7 +43,7 @@ h1, h2, h3, ul, img {
 }
 
 img, .block {
-    margin-right: 1.236em;
+    margin: 0 1.236em 1.236em 0;
 }
 
 article, p {
