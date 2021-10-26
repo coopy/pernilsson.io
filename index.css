@@ -93,6 +93,10 @@ a:hover {
     color: #D3D3D3;
 }
 
+em {
+    font-style: italic;
+}
+
 li {
     list-style-type: none;
     margin-bottom: 0.309em;
